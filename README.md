@@ -18,16 +18,13 @@
 
 
 fer2013-facial-expression-recognition/
-├── notebooks/
-│   ├── 01_smallcnn_baseline.ipynb      # არქიტექტურა 1: ბაზისური CNN მოდელი
-│   ├── 02_mediumcnn.ipynb              # არქიტექტურა 2: გაფართოებული CNN
-│   ├── 03_deepcnn_batchnorm.ipynb      # არქიტექტურა 3: ღრმა CNN + რეგულარიზაცია
-│   └── 04_resnet_like.ipynb            # არქიტექტურა 4: Custom ResNet მოდელი
-├── src/
-│   └── dataset.py                      # მონაცემთა ჩატვირთვა და პრეპროცესინგი
-├── requirements.txt                    # საჭირო ბიბლიოთეკების სია
-└── README.md                           # პროექტის დოკუმენტაცია
-```
+
+01_smallcnn_baseline.ipynb      # არქიტექტურა 1: ბაზისური CNN მოდელი
+02_mediumcnn.ipynb              # არქიტექტურა 2: გაფართოებული CNN
+03_deepcnn_batchnorm.ipynb      # არქიტექტურა 3: ღრმა CNN + რეგულარიზაცია
+04_resnet_like.ipynb            # არქიტექტურა 4: Custom ResNet მოდელი
+README.md                       # პროექტის დოკუმენტაცია
+
 
 ---
 
